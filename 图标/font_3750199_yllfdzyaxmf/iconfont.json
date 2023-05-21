@@ -1,0 +1,51 @@
+{
+  "id": "3750199",
+  "name": "paotui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "24473109",
+      "name": "余额",
+      "font_class": "yue1",
+      "unicode": "fcae",
+      "unicode_decimal": 64686
+    },
+    {
+      "icon_id": "5910684",
+      "name": "信用",
+      "font_class": "xinyong",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "10357047",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "11672345",
+      "name": "订单列表",
+      "font_class": "dingdanliebiao",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "12037101",
+      "name": "物流",
+      "font_class": "wuliu",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "24111783",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "fba5",
+      "unicode_decimal": 64421
+    }
+  ]
+}
